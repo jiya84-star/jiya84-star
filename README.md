@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiya84-star
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning nodeJS
 
 <!---
 jiya84-star/jiya84-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
